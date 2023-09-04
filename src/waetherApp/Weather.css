@@ -1,0 +1,30 @@
+.weatheBg{
+background:url(https://img.freepik.com/free-vector/rainfall-background-with-clouds-droplets_1017-32180.jpg?w=1380&t=st=1692537182~exp=1692537782~hmac=2f5327aa859aa22d07b47155dce31bad5339f133bdddcb77b7e57a47df9e9fb5) ;
+height: 50vh;
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+}
+.weathBox{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+
+}
+.btn{
+    align-content: center;
+    margin-left: 200px;
+}
+.imgIcon{
+    width: 100px;
+    height: 80px;
+}
+.weatherCity{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.weatherTemp{
+    font-size: 55px;
+}
